@@ -1,2 +1,4 @@
-# todo-2
-my second todo list .
+# My Second Todo List
+
+I have created a second todo-list using javascript, html and css.
+
