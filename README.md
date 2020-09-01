@@ -10,3 +10,8 @@ Enter the todo. and click on plus or hit enter. You will see your todo list. You
 Also this list is also storage in the local storage(press f12 (or inspect the page) and go to local storage option in the application tab). So even your browser gets close , the list is saved here.
 
 
+To open it select the html file and select online server. (Addres-http://127.0.0.1:5500/todo/index2.html).
+
+It is just a simple todo list(madde on vscode).
+
+
